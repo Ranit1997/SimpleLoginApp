@@ -1,5 +1,5 @@
 ## SimpleLoginApp
-###Prometheus XLRI R2 Submission
+Prometheus XLRI R2 Submission
 
 Instructions for Running the Code
 1. Install Python 3
